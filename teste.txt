@@ -1,1 +1,3 @@
 Olá
+git status demonstra o estado dos fixeiros
+git 
